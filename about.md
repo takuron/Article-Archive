@@ -1,10 +1,8 @@
 ---
-title: About
+title: 关于
 layout: page
 ---
 
-Hey! This is the "Leaf" Jekyll theme created by <a rel="me" target="_blank" href="https://twitter.com/_SupunKavinda">Supun Kavinda</a>.
+这里是@takuron的文章收藏站，会在允许的范围内转载其他来源的文章作为分享，全部文章均非原创，原创文章位于[本人博客主站](https://takuron.top/) 。
 
-You can find the source code of this theme at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>
-
-(Change this by editing `about.md` file)
+如您是文章作者，认为本站侵犯了您的权利，请[联系本人](mailto:zhongsunxinghe@outlook.com)处理。
